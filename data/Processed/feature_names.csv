@@ -1,0 +1,103 @@
+feature_name
+num__home_elo
+num__away_elo
+num__elo_diff
+cat__tournament_ABCS Tournament
+cat__tournament_AFC Asian Cup
+cat__tournament_AFC Asian Cup qualification
+cat__tournament_AFC Challenge Cup
+cat__tournament_AFC Challenge Cup qualification
+cat__tournament_AFC Solidarity Cup
+cat__tournament_AFF Championship
+cat__tournament_AFF Championship qualification
+cat__tournament_African Cup of Nations
+cat__tournament_African Cup of Nations qualification
+cat__tournament_Afro-Asian Games
+cat__tournament_Amílcar Cabral Cup
+cat__tournament_Arab Cup
+cat__tournament_Arab Cup qualification
+cat__tournament_Asian Games
+cat__tournament_Baltic Cup
+cat__tournament_CECAFA Cup
+cat__tournament_CFU Caribbean Cup
+cat__tournament_CFU Caribbean Cup qualification
+cat__tournament_CONCACAF Nations League
+cat__tournament_CONCACAF Nations League qualification
+cat__tournament_COSAFA Cup
+cat__tournament_COSAFA Cup qualification
+cat__tournament_Confederations Cup
+cat__tournament_Copa América
+cat__tournament_Copa América qualification
+cat__tournament_Copa Confraternidad
+cat__tournament_Copa Paz del Chaco
+cat__tournament_Copa del Pacífico
+cat__tournament_Corsica Cup
+cat__tournament_Coupe de l'Outre-Mer
+cat__tournament_Cup of Ancient Civilizations
+cat__tournament_Cyprus International Tournament
+cat__tournament_Dragon Cup
+cat__tournament_Dunhill Cup
+cat__tournament_Dynasty Cup
+cat__tournament_EAFF Championship
+cat__tournament_ELF Cup
+cat__tournament_East Asian Games
+cat__tournament_FIFA World Cup
+cat__tournament_FIFA World Cup qualification
+cat__tournament_Four Nations' Cup
+cat__tournament_Friendly
+cat__tournament_Gold Cup
+cat__tournament_Gold Cup qualification
+cat__tournament_Gulf Cup
+cat__tournament_Indian Ocean Island Games
+cat__tournament_Intercontinental Cup
+cat__tournament_Joe Robbie Cup
+cat__tournament_King Hassan II Tournament
+cat__tournament_King's Cup
+cat__tournament_Kirin Challenge Cup
+cat__tournament_Kirin Cup
+cat__tournament_Korea Cup
+cat__tournament_Lunar New Year Cup
+cat__tournament_Mahinda Rajapaksa Cup
+cat__tournament_Malta International Tournament
+cat__tournament_Melanesia Cup
+cat__tournament_Merdeka Tournament
+cat__tournament_Miami Cup
+cat__tournament_Millennium Cup
+cat__tournament_Nations Cup
+cat__tournament_Nehru Cup
+cat__tournament_Nile Basin Tournament
+cat__tournament_Nordic Championship
+cat__tournament_OSN Cup
+cat__tournament_Oceania Nations Cup
+cat__tournament_Oceania Nations Cup qualification
+cat__tournament_Pacific Games
+cat__tournament_Pacific Mini Games
+cat__tournament_Palestine International Championship
+cat__tournament_Philippine Peace Cup
+cat__tournament_Prime Minister's Cup
+cat__tournament_SAFF Cup
+cat__tournament_SKN Football Festival
+cat__tournament_Simba Tournament
+cat__tournament_South Asian Games
+cat__tournament_South Pacific Games
+cat__tournament_Southeast Asian Games
+cat__tournament_Superclásico de las Américas
+cat__tournament_TIFOCO Tournament
+cat__tournament_Three Nations Cup
+cat__tournament_Tournoi de France
+cat__tournament_Trans-Tasman Cup
+cat__tournament_UEFA Euro
+cat__tournament_UEFA Euro qualification
+cat__tournament_UEFA Nations League
+cat__tournament_UNCAF Cup
+cat__tournament_UNIFFAC Cup
+cat__tournament_USA Cup
+cat__tournament_United Arab Emirates Friendship Tournament
+cat__tournament_Unity Cup
+cat__tournament_VFF Cup
+cat__tournament_WAFF Championship
+cat__tournament_Windward Islands Tournament
+cat__neutral_False
+cat__neutral_True
+cat__is_world_cup_False
+cat__is_world_cup_True
