@@ -2,6 +2,12 @@ feature_name
 num__home_elo
 num__away_elo
 num__elo_diff
+num__home_elo_last_5
+num__away_elo_last_5
+num__elo_last_5_diff
+num__home_goal_difference_last_5
+num__away_goal_difference_last_5
+num__goal_difference_last_5_diff
 cat__tournament_ABCS Tournament
 cat__tournament_AFC Asian Cup
 cat__tournament_AFC Asian Cup qualification
