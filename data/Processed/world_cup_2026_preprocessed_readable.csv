@@ -1,0 +1,103 @@
+date,year,home_team,away_team,home_team_clean,away_team_clean,home_score,away_score,match_result,tournament,city,country,neutral,is_world_cup,home_elo,away_elo,elo_diff,goal_diff,abs_goal_diff,total_goals
+2026-06-11,2026,Mexico,South Africa,Mexico,South Africa,2,0,home_win,FIFA World Cup,Mexico City,Mexico,False,True,1835.0,1531.0,304.0,2,2,2
+2026-06-11,2026,South Korea,Czech Republic,South Korea,Czechia,2,1,home_win,FIFA World Cup,Zapopan,Mexico,True,True,1784.0,1731.0,53.0,1,1,3
+2026-06-12,2026,Canada,Bosnia and Herzegovina,Canada,Bosnia and Herzegovina,1,1,draw,FIFA World Cup,Toronto,Canada,False,True,1802.0,1571.0,231.0,0,0,2
+2026-06-12,2026,United States,Paraguay,United States,Paraguay,4,1,home_win,FIFA World Cup,Inglewood,United States,False,True,1747.0,1833.0,-86.0,3,3,5
+2026-06-13,2026,Qatar,Switzerland,Qatar,Switzerland,1,1,draw,FIFA World Cup,Santa Clara,United States,True,True,1427.0,1897.0,-470.0,0,0,2
+2026-06-13,2026,Brazil,Morocco,Brazil,Morocco,1,1,draw,FIFA World Cup,East Rutherford,United States,True,True,1979.0,1830.0,149.0,0,0,2
+2026-06-13,2026,Haiti,Scotland,Haiti,Scotland,0,1,away_win,FIFA World Cup,Foxborough,United States,True,True,1542.0,1790.0,-248.0,-1,1,1
+2026-06-13,2026,Australia,Turkey,Australia,Turkey,2,0,home_win,FIFA World Cup,Vancouver,Canada,True,True,1774.0,1880.0,-106.0,2,2,2
+2026-06-14,2026,Germany,Curaçao,Germany,Curaçao,7,1,home_win,FIFA World Cup,Houston,United States,True,True,1910.0,1467.0,443.0,6,6,8
+2026-06-14,2026,Ivory Coast,Ecuador,Ivory Coast,Ecuador,1,0,home_win,FIFA World Cup,Philadelphia,United States,True,True,1607.0,1933.0,-326.0,1,1,1
+2026-06-14,2026,Netherlands,Japan,Netherlands,Japan,2,2,draw,FIFA World Cup,Arlington,United States,True,True,1959.0,1878.0,81.0,0,0,4
+2026-06-14,2026,Sweden,Tunisia,Sweden,Tunisia,5,1,home_win,FIFA World Cup,Guadalupe,Mexico,True,True,1660.0,1641.0,19.0,4,4,6
+2026-06-15,2026,Belgium,Egypt,Belgium,Egypt,1,1,draw,FIFA World Cup,Seattle,United States,True,True,1849.0,1591.0,258.0,0,0,2
+2026-06-15,2026,Iran,New Zealand,Iran,New Zealand,2,2,draw,FIFA World Cup,Inglewood,United States,True,True,1754.0,1586.0,168.0,0,0,4
+2026-06-15,2026,Spain,Cape Verde,Spain,Cape Verde,0,0,draw,FIFA World Cup,Atlanta,United States,True,True,2171.0,1560.0,611.0,0,0,0
+2026-06-15,2026,Saudi Arabia,Uruguay,Saudi Arabia,Uruguay,1,1,draw,FIFA World Cup,Miami Gardens,United States,True,True,1612.0,1890.0,-278.0,0,0,2
+2026-06-16,2026,France,Senegal,France,Senegal,3,1,home_win,FIFA World Cup,East Rutherford,United States,True,True,2062.0,1803.0,259.0,2,2,4
+2026-06-16,2026,Iraq,Norway,Iraq,Norway,1,4,away_win,FIFA World Cup,Foxborough,United States,True,True,1582.0,1922.0,-340.0,-3,3,5
+2026-06-16,2026,Argentina,Algeria,Argentina,Algeria,3,0,home_win,FIFA World Cup,Kansas City,United States,True,True,2113.0,1726.0,387.0,3,3,3
+2026-06-16,2026,Austria,Jordan,Austria,Jordan,3,1,home_win,FIFA World Cup,Santa Clara,United States,True,True,1818.0,1687.0,131.0,2,2,4
+2026-06-17,2026,Portugal,DR Congo,Portugal,Democratic Republic of Congo,1,1,draw,FIFA World Cup,Houston,United States,True,True,1976.0,1616.0,360.0,0,0,2
+2026-06-17,2026,Uzbekistan,Colombia,Uzbekistan,Colombia,1,3,away_win,FIFA World Cup,Mexico City,Mexico,True,True,1735.0,1998.0,-263.0,-2,2,4
+2026-06-17,2026,England,Croatia,England,Croatia,4,2,home_win,FIFA World Cup,Arlington,United States,True,True,2042.0,1933.0,109.0,2,2,6
+2026-06-17,2026,Ghana,Panama,Ghana,Panama,1,0,home_win,FIFA World Cup,Toronto,Canada,True,True,1509.0,1742.0,-233.0,1,1,1
+2026-06-18,2026,Mexico,South Korea,Mexico,South Korea,1,0,home_win,FIFA World Cup,Zapopan,Mexico,False,True,1835.0,1784.0,51.0,1,1,1
+2026-06-18,2026,Czech Republic,South Africa,Czechia,South Africa,1,1,draw,FIFA World Cup,Atlanta,United States,True,True,1731.0,1531.0,200.0,0,0,2
+2026-06-18,2026,Canada,Qatar,Canada,Qatar,6,0,home_win,FIFA World Cup,Vancouver,Canada,False,True,1802.0,1427.0,375.0,6,6,6
+2026-06-18,2026,Switzerland,Bosnia and Herzegovina,Switzerland,Bosnia and Herzegovina,4,1,home_win,FIFA World Cup,Inglewood,United States,True,True,1897.0,1571.0,326.0,3,3,5
+2026-06-19,2026,Scotland,Morocco,Scotland,Morocco,0,1,away_win,FIFA World Cup,Foxborough,United States,True,True,1790.0,1830.0,-40.0,-1,1,1
+2026-06-19,2026,Brazil,Haiti,Brazil,Haiti,3,0,home_win,FIFA World Cup,Philadelphia,United States,True,True,1979.0,1542.0,437.0,3,3,3
+2026-06-19,2026,United States,Australia,United States,Australia,2,0,home_win,FIFA World Cup,Seattle,United States,False,True,1747.0,1774.0,-27.0,2,2,2
+2026-06-19,2026,Turkey,Paraguay,Turkey,Paraguay,0,1,away_win,FIFA World Cup,Santa Clara,United States,True,True,1880.0,1833.0,47.0,-1,1,1
+2026-06-20,2026,Germany,Ivory Coast,Germany,Ivory Coast,2,1,home_win,FIFA World Cup,Toronto,Canada,True,True,1910.0,1607.0,303.0,1,1,3
+2026-06-20,2026,Ecuador,Curaçao,Ecuador,Curaçao,0,0,draw,FIFA World Cup,Kansas City,United States,True,True,1933.0,1467.0,466.0,0,0,0
+2026-06-20,2026,Netherlands,Sweden,Netherlands,Sweden,5,1,home_win,FIFA World Cup,Houston,United States,True,True,1959.0,1660.0,299.0,4,4,6
+2026-06-20,2026,Tunisia,Japan,Tunisia,Japan,0,4,away_win,FIFA World Cup,Guadalupe,Mexico,True,True,1641.0,1878.0,-237.0,-4,4,4
+2026-06-21,2026,Uruguay,Cape Verde,Uruguay,Cape Verde,2,2,draw,FIFA World Cup,Miami Gardens,United States,True,True,1890.0,1560.0,330.0,0,0,4
+2026-06-21,2026,Spain,Saudi Arabia,Spain,Saudi Arabia,4,0,home_win,FIFA World Cup,Atlanta,United States,True,True,2171.0,1612.0,559.0,4,4,4
+2026-06-21,2026,New Zealand,Egypt,New Zealand,Egypt,1,3,away_win,FIFA World Cup,Vancouver,Canada,True,True,1586.0,1591.0,-5.0,-2,2,4
+2026-06-21,2026,Belgium,Iran,Belgium,Iran,0,0,draw,FIFA World Cup,Inglewood,United States,True,True,1849.0,1754.0,95.0,0,0,0
+2026-06-22,2026,France,Iraq,France,Iraq,3,0,home_win,FIFA World Cup,Philadelphia,United States,True,True,2062.0,1582.0,480.0,3,3,3
+2026-06-22,2026,Norway,Senegal,Norway,Senegal,3,2,home_win,FIFA World Cup,East Rutherford,United States,True,True,1922.0,1803.0,119.0,1,1,5
+2026-06-22,2026,Argentina,Austria,Argentina,Austria,2,0,home_win,FIFA World Cup,Arlington,United States,True,True,2113.0,1818.0,295.0,2,2,2
+2026-06-22,2026,Jordan,Algeria,Jordan,Algeria,1,2,away_win,FIFA World Cup,Santa Clara,United States,True,True,1687.0,1726.0,-39.0,-1,1,3
+2026-06-23,2026,Colombia,DR Congo,Colombia,Democratic Republic of Congo,1,0,home_win,FIFA World Cup,Zapopan,Mexico,True,True,1998.0,1616.0,382.0,1,1,1
+2026-06-23,2026,England,Ghana,England,Ghana,0,0,draw,FIFA World Cup,Foxborough,United States,True,True,2042.0,1509.0,533.0,0,0,0
+2026-06-23,2026,Portugal,Uzbekistan,Portugal,Uzbekistan,5,0,home_win,FIFA World Cup,Houston,United States,True,True,1976.0,1735.0,241.0,5,5,5
+2026-06-23,2026,Panama,Croatia,Panama,Croatia,0,1,away_win,FIFA World Cup,Toronto,Canada,True,True,1742.0,1933.0,-191.0,-1,1,1
+2026-06-24,2026,Mexico,Czech Republic,Mexico,Czechia,3,0,home_win,FIFA World Cup,Mexico City,Mexico,False,True,1835.0,1731.0,104.0,3,3,3
+2026-06-24,2026,South Africa,South Korea,South Africa,South Korea,1,0,home_win,FIFA World Cup,Guadalupe,Mexico,True,True,1531.0,1784.0,-253.0,1,1,1
+2026-06-24,2026,Canada,Switzerland,Canada,Switzerland,1,2,away_win,FIFA World Cup,Vancouver,Canada,False,True,1802.0,1897.0,-95.0,-1,1,3
+2026-06-24,2026,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina,Qatar,3,1,home_win,FIFA World Cup,Seattle,United States,True,True,1571.0,1427.0,144.0,2,2,4
+2026-06-24,2026,Scotland,Brazil,Scotland,Brazil,0,3,away_win,FIFA World Cup,Miami Gardens,United States,True,True,1790.0,1979.0,-189.0,-3,3,3
+2026-06-24,2026,Morocco,Haiti,Morocco,Haiti,4,2,home_win,FIFA World Cup,Atlanta,United States,True,True,1830.0,1542.0,288.0,2,2,6
+2026-06-25,2026,United States,Turkey,United States,Turkey,2,3,away_win,FIFA World Cup,Inglewood,United States,False,True,1747.0,1880.0,-133.0,-1,1,5
+2026-06-25,2026,Paraguay,Australia,Paraguay,Australia,0,0,draw,FIFA World Cup,Santa Clara,United States,True,True,1833.0,1774.0,59.0,0,0,0
+2026-06-25,2026,Curaçao,Ivory Coast,Curaçao,Ivory Coast,0,2,away_win,FIFA World Cup,Philadelphia,United States,True,True,1467.0,1607.0,-140.0,-2,2,2
+2026-06-25,2026,Ecuador,Germany,Ecuador,Germany,2,1,home_win,FIFA World Cup,East Rutherford,United States,True,True,1933.0,1910.0,23.0,1,1,3
+2026-06-25,2026,Japan,Sweden,Japan,Sweden,1,1,draw,FIFA World Cup,Arlington,United States,True,True,1878.0,1660.0,218.0,0,0,2
+2026-06-25,2026,Tunisia,Netherlands,Tunisia,Netherlands,1,3,away_win,FIFA World Cup,Kansas City,United States,True,True,1641.0,1959.0,-318.0,-2,2,4
+2026-06-26,2026,Egypt,Iran,Egypt,Iran,1,1,draw,FIFA World Cup,Seattle,United States,True,True,1591.0,1754.0,-163.0,0,0,2
+2026-06-26,2026,New Zealand,Belgium,New Zealand,Belgium,1,5,away_win,FIFA World Cup,Vancouver,Canada,True,True,1586.0,1849.0,-263.0,-4,4,6
+2026-06-26,2026,Cape Verde,Saudi Arabia,Cape Verde,Saudi Arabia,0,0,draw,FIFA World Cup,Houston,United States,True,True,1560.0,1612.0,-52.0,0,0,0
+2026-06-26,2026,Uruguay,Spain,Uruguay,Spain,0,1,away_win,FIFA World Cup,Zapopan,Mexico,True,True,1890.0,2171.0,-281.0,-1,1,1
+2026-06-26,2026,Norway,France,Norway,France,1,4,away_win,FIFA World Cup,Foxborough,United States,True,True,1922.0,2062.0,-140.0,-3,3,5
+2026-06-26,2026,Senegal,Iraq,Senegal,Iraq,5,0,home_win,FIFA World Cup,Toronto,Canada,True,True,1803.0,1582.0,221.0,5,5,5
+2026-06-27,2026,Algeria,Austria,Algeria,Austria,3,3,draw,FIFA World Cup,Kansas City,United States,True,True,1726.0,1818.0,-92.0,0,0,6
+2026-06-27,2026,Jordan,Argentina,Jordan,Argentina,1,3,away_win,FIFA World Cup,Arlington,United States,True,True,1687.0,2113.0,-426.0,-2,2,4
+2026-06-27,2026,Colombia,Portugal,Colombia,Portugal,0,0,draw,FIFA World Cup,Miami Gardens,United States,True,True,1998.0,1976.0,22.0,0,0,0
+2026-06-27,2026,DR Congo,Uzbekistan,Democratic Republic of Congo,Uzbekistan,3,1,home_win,FIFA World Cup,Atlanta,United States,True,True,1616.0,1735.0,-119.0,2,2,4
+2026-06-27,2026,Panama,England,Panama,England,0,2,away_win,FIFA World Cup,East Rutherford,United States,True,True,1742.0,2042.0,-300.0,-2,2,2
+2026-06-27,2026,Croatia,Ghana,Croatia,Ghana,2,1,home_win,FIFA World Cup,Philadelphia,United States,True,True,1933.0,1509.0,424.0,1,1,3
+2026-06-28,2026,South Africa,Canada,South Africa,Canada,0,1,away_win,FIFA World Cup,Inglewood,United States,True,True,1531.0,1802.0,-271.0,-1,1,1
+2026-06-29,2026,Brazil,Japan,Brazil,Japan,2,1,home_win,FIFA World Cup,Houston,United States,True,True,1979.0,1878.0,101.0,1,1,3
+2026-06-29,2026,Germany,Paraguay,Germany,Paraguay,1,1,draw,FIFA World Cup,Foxborough,United States,True,True,1910.0,1833.0,77.0,0,0,2
+2026-06-29,2026,Netherlands,Morocco,Netherlands,Morocco,1,1,draw,FIFA World Cup,Guadalupe,Mexico,True,True,1959.0,1830.0,129.0,0,0,2
+2026-06-30,2026,Ivory Coast,Norway,Ivory Coast,Norway,1,2,away_win,FIFA World Cup,Arlington,United States,True,True,1607.0,1922.0,-315.0,-1,1,3
+2026-06-30,2026,France,Sweden,France,Sweden,3,0,home_win,FIFA World Cup,East Rutherford,United States,True,True,2062.0,1660.0,402.0,3,3,3
+2026-06-30,2026,Mexico,Ecuador,Mexico,Ecuador,2,0,home_win,FIFA World Cup,Mexico City,Mexico,False,True,1835.0,1933.0,-98.0,2,2,2
+2026-07-01,2026,England,DR Congo,England,Democratic Republic of Congo,2,1,home_win,FIFA World Cup,Atlanta,United States,True,True,2042.0,1616.0,426.0,1,1,3
+2026-07-01,2026,Belgium,Senegal,Belgium,Senegal,3,2,home_win,FIFA World Cup,Seattle,United States,True,True,1849.0,1803.0,46.0,1,1,5
+2026-07-01,2026,United States,Bosnia and Herzegovina,United States,Bosnia and Herzegovina,2,0,home_win,FIFA World Cup,Santa Clara,United States,False,True,1747.0,1571.0,176.0,2,2,2
+2026-07-02,2026,Spain,Austria,Spain,Austria,3,0,home_win,FIFA World Cup,Inglewood,United States,True,True,2171.0,1818.0,353.0,3,3,3
+2026-07-02,2026,Portugal,Croatia,Portugal,Croatia,2,1,home_win,FIFA World Cup,Toronto,Canada,True,True,1976.0,1933.0,43.0,1,1,3
+2026-07-02,2026,Switzerland,Algeria,Switzerland,Algeria,2,0,home_win,FIFA World Cup,Vancouver,Canada,True,True,1897.0,1726.0,171.0,2,2,2
+2026-07-03,2026,Australia,Egypt,Australia,Egypt,1,1,draw,FIFA World Cup,Arlington,United States,True,True,1774.0,1591.0,183.0,0,0,2
+2026-07-03,2026,Argentina,Cape Verde,Argentina,Cape Verde,3,2,home_win,FIFA World Cup,Miami Gardens,United States,True,True,2113.0,1560.0,553.0,1,1,5
+2026-07-03,2026,Colombia,Ghana,Colombia,Ghana,1,0,home_win,FIFA World Cup,Kansas City,United States,True,True,1998.0,1509.0,489.0,1,1,1
+2026-07-04,2026,Canada,Morocco,Canada,Morocco,0,3,away_win,FIFA World Cup,Houston,United States,True,True,1802.0,1830.0,-28.0,-3,3,3
+2026-07-04,2026,Paraguay,France,Paraguay,France,0,1,away_win,FIFA World Cup,Philadelphia,United States,True,True,1833.0,2062.0,-229.0,-1,1,1
+2026-07-05,2026,Brazil,Norway,Brazil,Norway,1,2,away_win,FIFA World Cup,East Rutherford,United States,True,True,1979.0,1922.0,57.0,-1,1,3
+2026-07-05,2026,Mexico,England,Mexico,England,2,3,away_win,FIFA World Cup,Mexico City,Mexico,False,True,1835.0,2042.0,-207.0,-1,1,5
+2026-07-06,2026,Portugal,Spain,Portugal,Spain,0,1,away_win,FIFA World Cup,Dallas,United States,True,True,1976.0,2171.0,-195.0,-1,1,1
+2026-07-06,2026,United States,Belgium,United States,Belgium,1,4,away_win,FIFA World Cup,Seattle,United States,False,True,1747.0,1849.0,-102.0,-3,3,5
+2026-07-07,2026,Argentina,Egypt,Argentina,Egypt,3,2,home_win,FIFA World Cup,Atlanta,United States,True,True,2113.0,1591.0,522.0,1,1,5
+2026-07-07,2026,Switzerland,Colombia,Switzerland,Colombia,0,0,draw,FIFA World Cup,Vancouver,Canada,True,True,1897.0,1998.0,-101.0,0,0,0
+2026-07-09,2026,France,Morocco,France,Morocco,2,0,home_win,FIFA World Cup,Foxborough,United States,True,True,2062.0,1830.0,232.0,2,2,2
+2026-07-10,2026,Spain,Belgium,Spain,Belgium,2,1,home_win,FIFA World Cup,Inglewood,United States,True,True,2171.0,1849.0,322.0,1,1,3
+2026-07-11,2026,Norway,England,Norway,England,1,2,away_win,FIFA World Cup,Miami Gardens,United States,True,True,1922.0,2042.0,-120.0,-1,1,3
+2026-07-11,2026,Argentina,Switzerland,Argentina,Switzerland,3,1,home_win,FIFA World Cup,Kansas City,United States,True,True,2113.0,1897.0,216.0,2,2,4
+2026-07-14,2026,France,Spain,France,Spain,0,2,away_win,FIFA World Cup,Arlington,United States,True,True,2062.0,2171.0,-109.0,-2,2,2
+2026-07-15,2026,England,Argentina,England,Argentina,1,2,away_win,FIFA World Cup,Atlanta,United States,True,True,2042.0,2113.0,-71.0,-1,1,3
